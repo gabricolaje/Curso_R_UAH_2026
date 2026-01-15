@@ -1,0 +1,11 @@
+######GIT IGNORE
+# Lo que esté escrito aquí será ignorado por Git
+
+# Por ejemplo los datos porque son muy pesados
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Las carpetas que no quiero que salgan
